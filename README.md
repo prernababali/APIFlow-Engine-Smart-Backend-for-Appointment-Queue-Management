@@ -1,7 +1,7 @@
-# 🚀 APIFlow Engine  
+#  APIFlow Engine  
 ### *Backend System for Smart Appointment & Queue Management*
 
-## 📌 Project Overview
+##  Project Overview
 
 **APIFlow Engine** is a backend-focused web application built using **Spring Boot**, designed to streamline appointment booking and queue handling in clinics or service-based businesses. It features **role-based access control**, automated scheduling, status-based appointment lifecycles, and real-time queue tracking. This system exposes clean and scalable **RESTful APIs**, built with **Spring Boot, MySQL, JPA**, and **Maven**, and thoroughly tested via **Postman**.
 
